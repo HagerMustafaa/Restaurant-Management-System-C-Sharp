@@ -1,6 +1,6 @@
 # Restaurant-Management-System-C-Sharp
 
-![Image](restaurant photo.jpg) 
+![Image]([restaurant photo.jpg](https://github.com/HagerMustafaa/Restaurant-Management-System-C-Sharp/blob/3d92ed731bd0fba339bad64f4b6243db4f99bc21/restaurant%20photo.jpg)) 
 
 The Restaurant Management System is a fully functional application developed using C#. It aims to streamline the daily operations of restaurants ,login form, menu management and bill generation 
 

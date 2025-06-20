@@ -1,0 +1,5 @@
+Appetizer|Bruschetta|8|Spicy/Mild
+Main Course|Fried Chicken|14|Spicy/Mild
+Drinks|Lemonade|5|S/M/L
+Desserts|Ice Cream|4|Vanilla/Chocolate
+Desserts|Cheesecake|9|Strawberry/Blueberry
